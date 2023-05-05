@@ -1,0 +1,35 @@
+{
+
+  
+  "users": [
+    {
+      "email": "correo1@gmail.com",
+      "pass": "miller",
+      "id": 1
+    },
+    {
+      "email": "nicolas@correo.com",
+      "pass": "gatoNegro",
+      "id": 2
+    },
+    {
+      "email": "paleto@correo.com",
+      "pass": "pepeloco",
+      "id": 3
+    }
+  ],
+
+
+  "products": [
+    {
+      "nombre": "hamburguesas",
+      "precio": "20000",
+      "id": 1
+    },
+    {
+      "nombre": "empanadas",
+      "precio": "4000",
+      "id": 2
+    }
+  ]
+}
